@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../WALLACE_last.srcs/sources_1/new/CLA.v" \
+"../../../../../WALLACE_TREE_FAHA/WALLACE_TREE_FAHA.srcs/sources_1/new/FA.v" \
+"../../../../WALLACE_last.srcs/sources_1/new/HA.v" \
+"../../../../WALLACE_last.srcs/sources_1/new/Wallace.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

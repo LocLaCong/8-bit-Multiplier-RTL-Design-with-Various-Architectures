@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Vedic_4x4_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Vedic_4x4" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,701.001 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="121"></NameColumnWidth>
+      <ValueColumnWidth column_width="76"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/Vedic_4x4/a" type="array">
+      <obj_property name="ElementShortName">a[3:0]</obj_property>
+      <obj_property name="ObjectShortName">a[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_4x4/b" type="array">
+      <obj_property name="ElementShortName">b[3:0]</obj_property>
+      <obj_property name="ObjectShortName">b[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_4x4/result" type="array">
+      <obj_property name="ElementShortName">result[7:0]</obj_property>
+      <obj_property name="ObjectShortName">result[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_4x4/temp1" type="array">
+      <obj_property name="ElementShortName">temp1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">temp1[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_4x4/temp2" type="array">
+      <obj_property name="ElementShortName">temp2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">temp2[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_4x4/temp3" type="array">
+      <obj_property name="ElementShortName">temp3[3:0]</obj_property>
+      <obj_property name="ObjectShortName">temp3[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_4x4/temp4" type="array">
+      <obj_property name="ElementShortName">temp4[3:0]</obj_property>
+      <obj_property name="ObjectShortName">temp4[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_4x4/temp5" type="array">
+      <obj_property name="ElementShortName">temp5[3:0]</obj_property>
+      <obj_property name="ObjectShortName">temp5[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_4x4/temp6" type="array">
+      <obj_property name="ElementShortName">temp6[5:0]</obj_property>
+      <obj_property name="ObjectShortName">temp6[5:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_4x4/temp7" type="array">
+      <obj_property name="ElementShortName">temp7[5:0]</obj_property>
+      <obj_property name="ObjectShortName">temp7[5:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+</wave_config>

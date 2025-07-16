@@ -1,0 +1,28 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: E:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Vedic_8x8_behav xil_defaultlib.Vedic_8x8 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 4 differs from formal bit length 5 for port 's' [E:/Xilinx/Project/Vedic 4x4 using Full Adder/Vedic 4x4 using Full Adder.srcs/sources_1/new/Vedic 4x4 FA.v:67]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 7 for port 's' [E:/Xilinx/Project/Vedic 4x4 using Full Adder/Vedic 4x4 using Full Adder.srcs/sources_1/new/Vedic 4x4 FA.v:68]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 9 for port 's' [E:/Xilinx/Project/Vedic 8x8 using Full Adder/Vedic 8x8 using Full Adder.srcs/sources_1/new/Vedic 8x8 FA.v:79]
+WARNING: [VRFC 10-3091] actual bit length 12 differs from formal bit length 13 for port 's' [E:/Xilinx/Project/Vedic 8x8 using Full Adder/Vedic 8x8 using Full Adder.srcs/sources_1/new/Vedic 8x8 FA.v:80]
+WARNING: [VRFC 10-3091] actual bit length 12 differs from formal bit length 13 for port 's' [E:/Xilinx/Project/Vedic 8x8 using Full Adder/Vedic 8x8 using Full Adder.srcs/sources_1/new/Vedic 8x8 FA.v:81]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 7 for port 's' [E:/Xilinx/Project/Vedic 4x4 using Full Adder/Vedic 4x4 using Full Adder.srcs/sources_1/new/Vedic 4x4 FA.v:69]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.HA
+Compiling module xil_defaultlib.Vedic_2x2
+Compiling module xil_defaultlib.FA
+Compiling module xil_defaultlib.FA4
+Compiling module xil_defaultlib.FA6
+Compiling module xil_defaultlib.Vedic_4x4
+Compiling module xil_defaultlib.FA8
+Compiling module xil_defaultlib.FA12
+Compiling module xil_defaultlib.Vedic_8x8
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Vedic_8x8_behav

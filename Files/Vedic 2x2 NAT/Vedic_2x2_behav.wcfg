@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Vedic_2x2_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Vedic_2x2" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="2,820.001 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="113"></NameColumnWidth>
+      <ValueColumnWidth column_width="59"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/Vedic_2x2/a" type="array">
+      <obj_property name="ElementShortName">a[1:0]</obj_property>
+      <obj_property name="ObjectShortName">a[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_2x2/b" type="array">
+      <obj_property name="ElementShortName">b[1:0]</obj_property>
+      <obj_property name="ObjectShortName">b[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_2x2/s" type="array">
+      <obj_property name="ElementShortName">s[3:0]</obj_property>
+      <obj_property name="ObjectShortName">s[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_2x2/A" type="array">
+      <obj_property name="ElementShortName">A[1:0]</obj_property>
+      <obj_property name="ObjectShortName">A[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_2x2/B" type="array">
+      <obj_property name="ElementShortName">B[1:0]</obj_property>
+      <obj_property name="ObjectShortName">B[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_2x2/w1" type="logic">
+      <obj_property name="ElementShortName">w1</obj_property>
+      <obj_property name="ObjectShortName">w1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_2x2/w2" type="logic">
+      <obj_property name="ElementShortName">w2</obj_property>
+      <obj_property name="ObjectShortName">w2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_2x2/w3" type="logic">
+      <obj_property name="ElementShortName">w3</obj_property>
+      <obj_property name="ObjectShortName">w3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_2x2/w4" type="logic">
+      <obj_property name="ElementShortName">w4</obj_property>
+      <obj_property name="ObjectShortName">w4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_2x2/c1" type="logic">
+      <obj_property name="ElementShortName">c1</obj_property>
+      <obj_property name="ObjectShortName">c1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Vedic_2x2/c2" type="logic">
+      <obj_property name="ElementShortName">c2</obj_property>
+      <obj_property name="ObjectShortName">c2</obj_property>
+   </wvobject>
+</wave_config>
